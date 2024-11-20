@@ -1,0 +1,2 @@
+Tabla de símbolos:
+Variable: i, Valor: 6
